@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pkl
+*.onnx
+*.log
+.env
+data/*
+models/*
+demo/*
+notebooks/.ipynb_checkpoints/
